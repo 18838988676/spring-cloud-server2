@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 @SpringBootApplication
 @EnableEurekaServer
 public class SpringCloudServerApplication {
-//实现微服务高可用注册中心三个注册中心
+    //123实现微服务高可用注册中心三个注册中心123
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCloudServerApplication.class, args);
 	}
