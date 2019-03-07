@@ -24,3 +24,10 @@ HELP.md
 /nbdist/
 /.nb-gradle/
 /build/
+<<<<<<< HEAD
+/.gitignore
+/mvnw
+/mvnw.cmd
+/pom.xml
+=======
+>>>>>>> branch 'master' of https://github.com/18838988676/spring-cloud-server2.git
